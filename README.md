@@ -1,6 +1,6 @@
 # Last FM API consumer
 
-> Consumo de la la API Last FM con VUEJS
+> Consumo de la API Last FM con VUEJS
 
 ## Build Setup
 
