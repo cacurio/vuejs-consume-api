@@ -1,6 +1,6 @@
-# platzi-music
+Last FM API consumer
 
-> Proyecto de curso introduccion a VUEJS
+> Consumo de la la API Last FM con VUEJS
 
 ## Build Setup
 
